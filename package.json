@@ -33,5 +33,8 @@
     "url": "git://github.com/arjun/article-base-arjunepr.git"
   },
   "author": "arjun",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
